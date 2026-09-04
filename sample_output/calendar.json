@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-07-06",
+    "day": "Monday",
+    "platform": "LinkedIn",
+    "time": "08:00",
+    "theme": "plant care tips",
+    "idea": "A carousel debunking the 'water on a schedule' myth using soil-moisture cues instead",
+    "caption": "Your plant doesn't care what day it is. Stick your finger 2 inches into the soil \u2014 dry? Water it. Damp? Wait. That's the whole system.",
+    "hashtags": ["#plantcare", "#planttips", "#urbanjungle", "#plantparent", "#greenthumb"],
+    "status": "scheduled"
+  },
+  {
+    "date": "2026-07-07",
+    "day": "Tuesday",
+    "platform": "TikTok",
+    "time": "12:00",
+    "theme": "customer plant transformations",
+    "idea": "Before/after of a customer's crispy fiddle leaf fig recovering after switching to our soil mix",
+    "caption": "From crispy to thriving in 6 weeks. Sarah almost gave up on this fiddle leaf \u2014 swipe to see what actually saved it.",
+    "hashtags": ["#fiddleleaffig", "#planttransformation", "#plantrescue", "#beforeandafter", "#Verdant"],
+    "status": "scheduled"
+  },
+  {
+    "date": "2026-07-08",
+    "day": "Wednesday",
+    "platform": "Instagram",
+    "time": "19:00",
+    "theme": "community Q&A",
+    "idea": "Answering the top 5 DM questions from the week about light levels",
+    "caption": "You asked, we answered: how much light does 'bright indirect' actually mean? Full breakdown in the carousel.",
+    "hashtags": ["#plantqanda", "#plantcaretips", "#indirectlight", "#plantparentproblems", "#Verdant"],
+    "status": "scheduled"
+  },
+  {
+    "date": "2026-07-09",
+    "day": "Thursday",
+    "platform": "Instagram",
+    "time": "11:00",
+    "theme": "plant care tips",
+    "idea": "The 3-second finger test explained with a satisfying soil close-up",
+    "caption": "Stop guessing. This 3-second test tells you everything you need to know before you water.",
+    "hashtags": ["#plantcarehack", "#soiltips", "#plantparent", "#Verdant", "#urbanjungle"],
+    "status": "scheduled"
+  },
+  {
+    "date": "2026-07-10",
+    "day": "Friday",
+    "platform": "Instagram",
+    "time": "13:00",
+    "theme": "product spotlight",
+    "idea": "60-second unboxing + first impressions of the new self-watering planter line",
+    "caption": "The self-watering planters finally restocked and yes, they're as good as everyone said. No more vacation plant casualties.",
+    "hashtags": ["#selfwateringplanter", "#productlaunch", "#lowmaintenance", "#Verdant", "#plantcare"],
+    "status": "scheduled"
+  },
+  {
+    "date": "2026-07-11",
+    "day": "Saturday",
+    "platform": "TikTok",
+    "time": "20:00",
+    "theme": "behind-the-scenes / team",
+    "idea": "A short feature on how the team sources plants ethically from local growers",
+    "caption": "Every plant we sell starts with a relationship, not a warehouse. Here's a look at how our sourcing actually works.",
+    "hashtags": ["#sustainability", "#smallbusiness", "#ethicalsourcing", "#Verdant", "#plantbusiness"],
+    "status": "scheduled"
+  },
+  {
+    "date": "2026-07-12",
+    "day": "Sunday",
+    "platform": "TikTok",
+    "time": "09:00",
+    "theme": "myth-busting (overwatering, fake plants, etc.)",
+    "idea": "Quick-cut myth vs reality: 'yellow leaves always mean underwatering' \u2014 actually usually overwatering",
+    "caption": "Yellow leaves don't mean thirsty plant. It's giving overwatered, not underwatered. Save this before you drown another pothos.",
+    "hashtags": ["#plantmyths", "#pothos", "#plantcare101", "#greenliving", "#Verdant"],
+    "status": "scheduled"
+  }
+]
